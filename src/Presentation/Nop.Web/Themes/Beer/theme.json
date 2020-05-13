@@ -1,0 +1,7 @@
+﻿{
+  "SystemName": "BeerTheme",
+  "FriendlyName": "Beer Theme",
+  "SupportRTL": true,
+  "PreviewImageUrl": "~/Themes/DefaultClean/preview.jpg",
+  "PreviewText": "The Beer theme"
+}
